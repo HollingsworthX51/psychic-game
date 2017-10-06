@@ -1,0 +1,20 @@
+.wrapper {
+  width: 100%;
+ 
+}
+h1, h2, h3 {
+  text-align: center;
+}
+
+.Gamefield {
+background-color: #65E9E9;
+}
+
+footer {
+  background-color: #65E9E9;
+}
+
+.image {
+ padding: 10px;
+ margin-top: -40px;
+}
